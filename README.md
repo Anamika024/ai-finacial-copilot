@@ -6,6 +6,8 @@ AI-powered backend that analyzes financial data, detects risks and trends, and g
 
 ## Demo
 
+![Project Demo](data/demo.png)
+
 Example question:
 > Am I spending too much?
 
